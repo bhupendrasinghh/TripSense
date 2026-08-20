@@ -1,0 +1,11 @@
+# Environment variables & secrets
+.env
+
+# Python & Jupyter cache
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# macOS files
+.DS_Store
